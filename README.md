@@ -8,7 +8,7 @@ Example 2: check-ad-csv-single-field-check.ps1
 
 ## Example 1
 In this example SamAccountName is used in these other attributes: 'CommonName','AdditionalFields.proxyAddresses','AdditionalFields.userPrincipalName','AdditionalFields.mail'.
-So when SamAccountName is not unique, all these fields need to be iterated to be the same as SamAccountName. 
+So when SamAccountName is not unique, all these fields need to be iterated to be the same as SamAccountName.  It can also be used to keep the iteration numbers equal on the chosen attributes.
 
 ## Example 2
 In this example only SamAccountName needs to be checked and iterated. 

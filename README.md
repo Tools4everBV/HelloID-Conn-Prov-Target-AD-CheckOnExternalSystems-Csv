@@ -3,7 +3,7 @@
 ## Before you start
 Be sure to read the information about checking external systems on <a href="https://docs.helloid.com/hc/en-us/articles/360012421460-Configure-the-on-premises-Microsoft-Active-Directory-target-system#2.4" target="_blank">the documentation page</a>. On "Account.5" you can find the full explanation on how this check works.
 We made 2 examples.
-Example 1: check-ad-csv-synchronise-fields.ps1
+Example 1: check-ad-csv-synchronize-fields.ps1
 Example 2: check-ad-csv-single-field-check.ps1
 
 ## Example 1
